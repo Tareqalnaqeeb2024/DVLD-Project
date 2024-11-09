@@ -1,0 +1,6 @@
+E:\Mohammed Abu-Hadhoud\Projects\DataAccess\bin\Debug\DataAccess.dll
+E:\Mohammed Abu-Hadhoud\Projects\DataAccess\bin\Debug\DataAccess.pdb
+E:\Mohammed Abu-Hadhoud\Projects\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Projects\DataAccess\obj\Debug\DataAccess.dll
+E:\Mohammed Abu-Hadhoud\Projects\DataAccess\obj\Debug\DataAccess.pdb
+E:\Mohammed Abu-Hadhoud\Projects\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache

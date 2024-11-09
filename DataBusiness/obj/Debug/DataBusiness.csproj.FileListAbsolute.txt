@@ -1,0 +1,9 @@
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\bin\Debug\DataBusiness.dll
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\bin\Debug\DataBusiness.pdb
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\bin\Debug\DataAccess.dll
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\bin\Debug\DataAccess.pdb
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\obj\Debug\DataBusiness.csproj.AssemblyReference.cache
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\obj\Debug\DataBusiness.csproj.CoreCompileInputs.cache
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\obj\Debug\DataBusiness.csproj.CopyComplete
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\obj\Debug\DataBusiness.dll
+E:\Mohammed Abu-Hadhoud\Projects\DataBusiness\obj\Debug\DataBusiness.pdb
