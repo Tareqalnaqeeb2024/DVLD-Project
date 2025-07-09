@@ -65,8 +65,7 @@ DVLD is a comprehensive system that simulates real-world driver licensing operat
 ✅ Advanced DataGridView handling  
 ✅ Robust error handling
 
-## 📸 Screenshots
-*(Add your screenshots here)*
+
 
 ## 🛠️ Installation
 1. Clone the repository
